@@ -169,7 +169,7 @@ li{
 .inside-mid-left{
     height:50%;
     width:100%;
-    background:red;
+    /* background:red; */
     display:flex;
     flex-direction:column;
     justify-content:space-between;
@@ -227,6 +227,7 @@ a{
 }
 .p2{
     margin-bottom:20px;
+    margin-left: -15px;
 }
 .row2{
     height: 675.66px;
@@ -238,7 +239,7 @@ a{
 .row2-a{
     height: 659.05px;
     width: 698.24px;
-    background: red; 
+    /* background: red;  */
     
     
 }
@@ -316,6 +317,7 @@ p{
 }
 h2{
     margin-top: 105px;
+    
 }
 .p3{
     margin-left: 0;
@@ -328,11 +330,12 @@ h2{
 .p4{
     width: 30px;
     margin-left: 0;
+    font-size: 13.5px;
 }
 .halfrow2a{
     height: 659.05px;
     width: 698.24px;
-    background: green;
+    /* background: green; */
     margin-left: 220px;
     
     
@@ -341,7 +344,7 @@ h2{
 .image2{
     height: 540px;
     width: 540px;
-    background: purple;
+    /* background: purple; */
     position: absolute;
     right: 220px;
     top:980px;
@@ -354,23 +357,28 @@ h2{
 .low{
     height: 441.26px;
     width: 720px;
-    background: red;
+    /* background: red; */
     margin-right: 340px;
     display: flex;
 }
 .inside-low{
     height: 387.26px;
     width: 419.99px;
-    background: purple;
+    /* background: purple; */
+    position: absolute;
+    left: 232.5px;
 }
 .inside-low2{
     height: 387.26px;
     width: 239.99px;
-    background: yellow;
+    /* background: yellow; */
     margin-left: 60px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: absolute;
+    left: 855px;
+    top: 1752.5px;
 }
 .img-fluid3{
     height: 209.99px;
@@ -380,7 +388,7 @@ h2{
 .bottom-img{
     height: 161.28px;
     width: 209.99px;
-    background: blue;
+    /* background: blue; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -392,18 +400,19 @@ h2{
 .a1{
     height: 106.4px;
     width: 161.99px;
-    background: green;
+    /* background: green; */
     margin-right: 40px;
     display: flex;
     flex-direction: column;
     align-items: left;
     justify-content: space-between;
     margin-bottom:33px;
+    margin-left: 40px;
 }
 .p5{
     height: 38.88px;
     width: 161.99px;
-    
+    margin-left: 2.5px;
     
 }
 .h6{
@@ -417,7 +426,101 @@ h2{
 .inside-lowdiv{
     height: 379.68px;
     width: 104.93px;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-between;
+}
+.container2{
+    height: 116.78px;
+    width: 105.33px;
+    /* background: blue; */
+    margin-left: 0;
+    margin-top: 130px;
+}
+.h8{
+    height: 83.19px;
+    width: 105.33px;
+    font-size: 32.5px;
+    margin-top: 0;
+    
+}
+.p8{
+    height: 25.59px;
+    width: 105.33px;
+    margin-left: 0;
+}
+.p9{
+    height: 39.25px;
+    width: 105.33px;
+    margin-left: 0;
+    margin-bottom: 90px;
+    font-size: 13.5px;
+}
+.inside-lowdiv2{
+    height: 387.25px;
+    width: 315.06px;
+    /* background: blue; */
+    margin-top: -380px;
+    margin-left: 105px;
+    position: absolute;
+    
+}
+.img-fluid4{
+    height: 539.98px;
+    width: 539.98px;
+}
+.p1{
+    margin-left: 0;
+}
+.a2{
+    margin-left: 0;
+}
+.p10{
+    margin-left: -15px;
+}
+.h10{
+    margin-left: -15px;
+}
+.low2-2{
+    height: 634px;
+    width: 1140px;
+    background: red;
+    margin-top: 250px;
+}
+.insidelow2-2{
+    height: 586px;
+    width: 285px;
+    background: yellow;
+    padding: 16px 15px 0 15px;
+}
+.img-fluid5{
+    height: 255px;
+    width: 255px;
+}
+.bottom-img2{
+    height: 198.02px;
+    width: 255px;
+    background: purple;
+    padding: 0 24px 0 24px;
+    position: absolute;
+    left: 236.5px;
+    top: 2480px;
+
+}
+.swiss-container{
+    height: 142.77px;
+    width: 207px;
     background: yellow;
 }
-
-
+.h11{
+    height: 109.17px;
+    width: 207px;
+    font-size: 35px;
+    
+}
+.p11{
+    height: 25.59px;
+    width: 207px;
+}
