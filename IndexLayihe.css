@@ -486,13 +486,14 @@ h2{
 .low2-2{
     height: 634px;
     width: 1140px;
-    background: red;
+    /* background: red; */
     margin-top: 250px;
+    display: flex;
 }
 .insidelow2-2{
     height: 586px;
     width: 285px;
-    background: yellow;
+    /* background: yellow; */
     padding: 16px 15px 0 15px;
 }
 .img-fluid5{
@@ -502,25 +503,227 @@ h2{
 .bottom-img2{
     height: 198.02px;
     width: 255px;
-    background: purple;
+    /* background: purple; */
     padding: 0 24px 0 24px;
     position: absolute;
     left: 236.5px;
     top: 2480px;
+    
 
 }
 .swiss-container{
     height: 142.77px;
     width: 207px;
-    background: yellow;
+    /* background: yellow; */
+    
+   
 }
 .h11{
     height: 109.17px;
     width: 207px;
     font-size: 35px;
+    position: absolute;
+    left: 0;
     
 }
 .p11{
     height: 25.59px;
     width: 207px;
+    position: absolute;
+    right: 90px;
+    bottom: 40px;
 }
+.p12{
+    height: 38.88px;
+    width: 207px;
+    position: absolute;
+    top: 180px;
+    left: -35px;
+    font-size: 13.5px;
+}
+.insidelow2-3{
+    height: 634px;
+    width: 760px;
+    /* background: blue; */
+    margin-left: -110px;
+}
+.img-fluid6{
+    height: 634px;
+    width: 634px;
+    position: absolute;
+    right: 175px;;
+    bottom: -2195px;
+}
+.a8{
+    height: 158.4px;
+    width: 162.8px;
+    /* background: purple; */
+}
+.h13{
+    height: 158.4px;
+    width: 162.46px;
+    /* background: purple; */
+    margin-left: 197.5px;
+    
+}
+.p13{
+    height: 25.6px;
+    width: 162.46px;
+    margin-top: 40px;
+    margin-left: 197.5px;
+}
+.p14{
+    margin-left: 40px;
+    font-size: 13.5px;
+    margin-left: 197.5px;
+    margin-top: 17.5px;
+}
+.lowest{
+    height: 550.8px;
+    width: 1245.6px;
+    /* background: red; */
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inside-lowest{
+    height: 454.88px;
+    width: 1140px;
+    /* background: purple; */
+}
+.inside-insidelowest{
+    height: 554.88px;
+    width: 540px;
+    
+}
+.p15{
+    height: 25.6px;
+    width: 540px;
+    margin-left: 0;
+    
+}
+.h14{
+    height: 104px;
+    width: 540px;
+    margin-top: 12.5px;
+    font-size: 46.25px;
+}
+.p16{
+    height: 25.6px;
+    width: 540px;
+    margin-left: 0;
+    margin-top: 15px;
+}
+.p17{
+    height: 44px;
+    width: 72.76px;
+    margin-left: 0;
+    background: #dc3545;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+.span1{
+    color: white;
+}
+.time-container{
+    height: 112.8px;
+    width: 450px;
+    /* background: blue; */
+    margin-top: 23.5px;
+    border-radius: 1.25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p18{
+    height: 38.88px;
+    width: 450px;
+    margin-left: 0;
+    
+}
+.a9{
+    font-size: 13.5px;
+    margin-left: 0;
+    padding: 8.4px 12px 8.4px 12px;
+    position: absolute;
+    top: 3374px;
+    left: 52.5px;
+    
+}
+.divoftime-container{
+    height: 64.8px;
+    width: 384px;
+    /* background: yellow;  */
+    display: flex;
+    
+}
+.time{
+    height: 64.8px;
+    width: 96px;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;   */
+}
+.time2{
+    height: 64.8px;
+    width: 96px;
+    margin-left: 40px;
+}
+.h15{
+   height: 32.2px;
+   width: 66px;
+   font-size: 1.5rem;
+   margin-left: 37.5px;
+   margin-top: -4px;
+}
+.span2{
+   height: 22.4px;
+   width: 59.81px;
+   font-size: 1rem;
+   margin-top: -100px;
+   margin-left: 30px;
+   position: absolute;
+   top: 3425px; 
+} 
+
+.span3{
+    position: absolute;
+    top: 3325px;
+    margin-left: 30px;
+}
+
+.span4{
+    position: absolute;
+    top: 3325px;
+    margin-left: 25px;
+}
+.image-div{
+    height: 454.88px;
+    width: 480px;
+    
+    position: absolute;
+    right: 0;
+    top: 3005px;
+    displaY: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-fluid7{
+    height: 450px;
+    width: 300px;
+}
+.a10{
+   font-size: 13.5px;
+   border: 1px solid black;
+   margin-left: 60px;
+   padding: 8px 12px 8px 12px;
+}
+
